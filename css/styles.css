@@ -7,3 +7,17 @@ div[class^="col"]{
 .row{
     border: 1px dashed rgb(201, 115, 129);
 }
+
+h1,h2 {
+        font-family: "Abhaya Libre", serif;
+        font-weight: 400;
+        font-style: normal;
+  }
+
+  .btn btn-light {
+        font-family: "Abhaya Libre", serif;
+        font-weight: 400;
+        font-style: normal;
+  }
+  
+  
